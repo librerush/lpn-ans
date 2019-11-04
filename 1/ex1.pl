@@ -1,3 +1,4 @@
+% -*- Mode: Prolog; -*-
 % exercise 1.1
 
 
