@@ -1,6 +1,5 @@
 % exercise 1.1
 
-
 % vINCENT -> atom
 % Footmassage -> var
 % variable23 -> atom
@@ -11,5 +10,4 @@
 % ’Jules’ -> atom
 % _Jules -> var
 % ’_Jules’ -> atom
-
 
