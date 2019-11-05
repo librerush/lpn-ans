@@ -1,4 +1,4 @@
-% exercise 3
+% exercise 1.3
 
 woman(vincent).
 woman(mia).
