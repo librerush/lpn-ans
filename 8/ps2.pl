@@ -1,5 +1,7 @@
 % practical session 8.2
 
+:- module('8/ps2', [s/3]).
+
 lex(the, det(_)).
 lex(a, det(singular)).
 lex(men, n(plural)).
